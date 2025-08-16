@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mathew-onwuka
-- 👀 My name is Mathew U.O. Onwuka. My stack interest includes Bootstrap, Tailwind, Javascript, VueJS, PHP, Laravel and MySQL. 
+- 👀 My name is Mathew U.O. Onwuka. My stack interest includes CSS3, Bootstrap, Tailwind, Javascript, VueJS, PHP, Laravel and MySQL. 
 - **Roles:** Full Stack Web Developer/ Software Engineer...
 - **Education:** Bachelor's Degree in Computer Science.
 - 🌱 I’m currently mastering Laravel and Vue JS...
